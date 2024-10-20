@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.comment-item {
+  border: 2px solid purple;
+  margin: 10px;
+  padding: 5px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  justify-content: center;
+}
