@@ -1,0 +1,24 @@
+.app{
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card-item{
+    width: 150px;
+    height: 150px;
+    background-color: peachpuff;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+button{
+    margin-top: 30px;
+}
